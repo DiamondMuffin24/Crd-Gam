@@ -12,11 +12,14 @@ public class Card
     public string cardDescription;
     public Sprite spriteImage;
 
+    public bool canbeSummon;
+    public bool summoned;
+    public GameObject battleZone;
 
 
     public Card()
     {
-
+        
     }
 
     public Card(int Id, string CardName, int Cost, int Power, string CardDescription, Sprite SpriteImage )
@@ -34,6 +37,14 @@ public class Card
 
 
 
+    void Start()
+    {
+        canbeSummon = false;
+        summoned = false;
+    }
+
+    
+   
 
 
 }

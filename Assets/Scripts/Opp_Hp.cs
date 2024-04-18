@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Opp  : MonoBehaviour
+public class Opp_Hp : MonoBehaviour
 {
     public static float maxHp;
     public static float staticHp;

@@ -2328,240 +2328,360 @@ MonoBehaviour:
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   - id: 0
     cardName: 
     cost: 0
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   x: 0
   container:
   - id: 0
@@ -2570,6 +2690,9 @@ MonoBehaviour:
     power: 0
     cardDescription: 
     spriteImage: {fileID: 0}
+    canbeSummon: 0
+    summoned: 0
+    battleZone: {fileID: 0}
   cardInDeck1: {fileID: 779293766}
   cardInDeck2: {fileID: 966720377}
   cardInDeck3: {fileID: 1751088575}
@@ -2620,14 +2743,14 @@ RectTransform:
   m_GameObject: {fileID: 1930496281}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.6670191, y: 0.6670191, z: 0.6670191}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 745138520}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -18.000488, y: -459}
+  m_AnchoredPosition: {x: -18.000488, y: -347}
   m_SizeDelta: {x: -1536.3408, y: -539.61926}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1930496283
